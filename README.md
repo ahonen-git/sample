@@ -6,3 +6,5 @@ issue1-1
 issue2-1
 # 統合ブランチでの作業
 issue3
+
+# Editing in sample user
